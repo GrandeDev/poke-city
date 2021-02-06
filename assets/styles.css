@@ -1,0 +1,58 @@
+body {
+  background: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #666;
+}
+
+form {
+  background: white;
+  width: 400px;
+  padding: 40px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 2px #eee;
+  margin: 100px auto 100px;
+}
+
+label {
+  text-align: center;
+  display: block;
+  margin-bottom: 10px;
+  line-height: 1.2;
+}
+
+#logo {
+  margin: 0 auto 20px;
+  width: 320px;
+}
+
+#city-input {
+  width: 100%;
+  display: block;
+  font-size: 14px;
+  color: #666;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  font-size: 16px;
+  color: #666;
+  border-radius: 4px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+#palavra-chave {
+  font-size: 12px;
+  background: #eee;
+  padding: 6px 12px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+pre {
+  display: inline;
+  margin-left: 8px;
+}
