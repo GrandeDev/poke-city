@@ -12,7 +12,6 @@
         $temp ='';
         $type = '';
         
-        var_dump($result);
         if($result){
             
             $weather = $result['weather'][0]['main'] ?? '';
