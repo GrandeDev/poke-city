@@ -13,7 +13,7 @@
         $type = '';
         
         if($result){
-            
+                        
             $weather = $result['weather'][0]['main'] ?? '';
             $temp = round($result['main']['temp'] - 273, 0);  
             $type = '';
